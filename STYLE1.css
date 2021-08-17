@@ -1,0 +1,12 @@
+body{
+    background-image:url("hand.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    width:100%;
+    height:100%;
+}
+.cont{
+display: flex;
+justify-content: center;
+padding: 2%;
+}
